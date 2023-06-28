@@ -4,6 +4,9 @@
     font-family: 'Verdana', sans-serif;
     box-sizing: border-box;
 }
+h2{
+    font-size: 34px;
+}
 
 .container {
     width: 100%;
